@@ -998,40 +998,40 @@ export const unidades = [
             {
                 enunciado: "La tecnoestructura, en el sistema de Mintzberg, permite...",
                 posiblesRespuestas: [
-                    "",
+                    "Dirigir la empresa",
                     "Realizar los sistemas de normalización.",
-                    "",
-                    ""
+                    "Aclarar dudas",
+                    "Asesorar en asuntos financieros"
                 ],
                 numRespuestaCorrecta: 2,
             },
             {
                 enunciado: "El sistema artesanal de producción se caracteriza por..",
                 posiblesRespuestas: [
-                    "",
-                    "",
+                    "Organizar el trabajo en cadenas de montajes",
+                    "Mantener la calidad del producto",
                     "Elaborar objetos de lujo y exclusivos.",
-                    ""
+                    "Ninguna de las afirmaciones anteriores es verdadera"
                 ],
                 numRespuestaCorrecta: 3,
             },
             {
                 enunciado: "El sistema de producción toyotista...",
                 posiblesRespuestas: [
-                    "",
+                    "Basa su organización en el control de los tiempos",
                     "Produce según la demanda de la clientela",
-                    "",
-                    ""
+                    "Tiene grandes almacenes",
+                    "Concentra la producción en un país"
                 ],
                 numRespuestaCorrecta: 2,
             },
             {
                 enunciado: "La estructura empresarial en trébol organiza parte de sus tareas para que sean realizadas por...",
                 posiblesRespuestas: [
-                    "",
+                    "El personal directivo",
                     "Los clientes.",
-                    "",
-                    ""
+                    "Los proveedores",
+                    "Las personas desempleadas"
                 ],
                 numRespuestaCorrecta: 2,
             },
@@ -1039,19 +1039,19 @@ export const unidades = [
                 enunciado: "Las modernas estructuras empresariales en red o en malla...",
                 posiblesRespuestas: [
                     "Permiten una mayor flexibilidad en las empresas.",
-                    "",
-                    "",
-                    ""
+                    "Son estructuras muy rígidas que no admiten cambios",
+                    "No subcontratan la producción",
+                    "La estructura en malla no existe"
                 ],
                 numRespuestaCorrecta: 1,
             },
             {
                 enunciado: "La subcontratación es un mecanismo de organización empresarial que..",
                 posiblesRespuestas: [
-                    "",
+                    "No permite a una empresa trabajar para otra,
                     "Crea una red de empresas pequeñas que hacen una parte del trabajo de otra más grande",
-                    "",
-                    ""
+                    "Permite trabajar siempre con equipos informaticos",
+                    "Organiza la formación para las personas trabajadoras de una empresa"
                 ],
                 numRespuestaCorrecta: 2,
             },
@@ -1059,18 +1059,18 @@ export const unidades = [
                 enunciado: "Se denomina off shoring la técnica que emplean las empresas para..",
                 posiblesRespuestas: [
                     "Deslocalizar su producción.",
-                    "",
-                    "",
-                    ""
+                    "Vender sus productos",
+                    "Generar campañas de marketing",
+                    "Todas las respuestas anteriores son correctas"
                 ],
                 numRespuestaCorrecta: 1,
             },
             {
                 enunciado: "Una estructura empresarial virtual significa que...",
                 posiblesRespuestas: [
-                    "",
-                    "",
-                    "",
+                    "La empresa trabaja a través de internet",
+                    "La empresa no tiene una plantilla",
+                    "La empresa solo hace investigación",
                     "Diversas empresas ponen en común lo que mejor saben hacer"
                 ],
                 numRespuestaCorrecta: 4,
@@ -1078,9 +1078,9 @@ export const unidades = [
             {
                 enunciado: "Entre los elementos del entorno sobre los que las empresas no tienen control se encuentran..",
                 posiblesRespuestas: [
-                    "",
-                    "",
-                    "",
+                    "Los cambios políticos",
+                    "Los cambios en la normativa",
+                    "Las fuerzas medioambientales",
                     "Todos los anteriores."
                 ],
                 numRespuestaCorrecta: 4,
@@ -1088,9 +1088,9 @@ export const unidades = [
             {
                 enunciado: "La flexibilidad productiva supone para las empresas la capacidad para..",
                 posiblesRespuestas: [
-                    "",
-                    "",
-                    "",
+                    "Producir un solo modelo de producto",
+                    "Producir un producto y los complementos y los accesorios que lleva aparejados",
+                    "Adaptar el número de personas trabajadoras al volumen de pedidos",
                     "Producir nuevos productos o adaptar las cantidades que se fabrican del mismo artículo"
                 ],
                 numRespuestaCorrecta: 4,
@@ -1098,9 +1098,9 @@ export const unidades = [
             {
                 enunciado: "Entre las nuevas amenazas globales a las que tienen que hacer frente las empresas y las personas trabajadoras se encuentran...",
                 posiblesRespuestas: [
-                    "",
-                    "",
-                    "",
+                    "Las pandemias",
+                    "El terrorismo internacional",
+                    "Las catastrofes medioambientales",
                     "Todas las opciones anteriores son correctas"
                 ],
                 numRespuestaCorrecta: 4,
@@ -1109,19 +1109,19 @@ export const unidades = [
                 enunciado: "La polivalencia funcional de las personas permite..",
                 posiblesRespuestas: [
                     "Participar en diferentes tareas y proyectos",
-                    "",
-                    "",
-                    ""
+                    "Asumir una sola función en la empresa",
+                    "Conciliar la vida familiar y laboral",
+                    "Una organización piramidal estricta en la empresa"
                 ],
                 numRespuestaCorrecta: 1,
             },
             {
                 enunciado: "El teletrabajo permite a las personas trabajadoras..",
                 posiblesRespuestas: [
-                    "",
+                    "Trabajar desde la oficina de la empresa con la clientela",
                     "Trabajar desde su domicilio utilizando las nuevas tecnologías",
-                    "",
-                    ""
+                    "Trabajar en la oficina de la empresa compartiendo información con sus compañeros y sus compañeras",
+                    "Todas las afirmaciones anteriores son verdaderas"
                 ],
                 numRespuestaCorrecta: 2,
             },
