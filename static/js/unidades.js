@@ -909,10 +909,10 @@ export const unidades = [
             {
                 enunciado: "¿Qué número mínimo de personas trabajadoras debe tener una empresa para elegir un comité de empresa?",
                 posiblesRespuestas: [
-                    "",
-                    "",
+                    "Veinte",
+                    "Cuarenta y nueve",
                     "Cincuenta",
-                    ""
+                    "Cien"
                 ],
                 numRespuestaCorrecta: 3,
             },
@@ -920,19 +920,19 @@ export const unidades = [
                 enunciado: "El sindicato más representativo en una comunidad autónoma es aquel que ha obtenido al menos...",
                 posiblesRespuestas: [
                     "El 15% de los representantes en su comunidad autónoma, con un mínimo de 1500",
-                    "",
-                    "",
-                    ""
+                    "El 30% de los representantes en tres comunidades",
+                    "El 10% de ñps representantes de todo el Estado",
+                    "No existe una cantidad mínima necesaria"
                 ],
                 numRespuestaCorrecta: 1,
             },
             {
                 enunciado: "Si la empresa quiere despedir a un representante de las personas trabajadoras por falta grave o muy grave, debe..",
                 posiblesRespuestas: [
-                    "",
-                    "",
+                    "Comunicarle el despido con 60 días de antelación",
+                    "Mp se le puede despedir",
                     "Abrirle un expediente contradictorio antes de sancionarle.",
-                    ""
+                    "Debe esperar un año"
                 ],
                 numRespuestaCorrecta: 3,
             },
@@ -940,9 +940,9 @@ export const unidades = [
                 enunciado: "En una empresa se ha convocado una huelga legalmente. Las personas que deciden secundarla, ¿están obligadas a comunicarlo a la empresa previamente?",
                 posiblesRespuestas: [
                     "Sí",
-                    "",
-                    "",
-                    ""
+                    "No",
+                    "Solamente en las huelgas generales",
+                    "Ninguna opción es verdadera"
                 ],
                 numRespuestaCorrecta: 1,
             },
